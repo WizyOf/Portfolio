@@ -1,0 +1,390 @@
+.navbar-brand {
+    font-family: 'Julius Sans One';
+    margin-left: 50px;
+}
+
+.navbar-nav {
+    font-family: Arial;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    margin-right : 30px;
+}
+
+.nav-item{
+    margin-left: 20px;
+    font-family: 'Lato';
+    font-size : 14.5px;
+    letter-spacing: 1px;
+}
+
+.col-sm-2{
+    background-color: #708090;
+}
+
+.pp{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    max-width: auto;
+    max-height: auto;
+}
+
+.prenom p {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 30px;
+    margin-top: 20%;    
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h5 {
+    color: white;
+    font-family: 'Bebas Neue';
+    letter-spacing: 2px;
+}
+
+ul,li {
+    list-style-type : none;
+}
+
+hr.separateur{
+    border-bottom: 2px white solid;
+    width: 100%;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    opacity: 1;
+}
+
+p {
+    font-size: 14px;
+    color : white;
+}
+
+.contact a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Fjalla One';
+    margin-left: 4px;
+}
+
+.contact a:hover{
+    transition: 0.3s ease-in-out;
+    color: black;
+}
+
+.etudes h6{
+    font-family: 'Fjalla One';
+    color: white;
+    margin-bottom: 1px;
+    margin-top: 20px;
+}
+
+.etudes p{
+    font-family: 'Lato';
+    color: lightgrey;
+    margin-bottom: 1px;
+}
+
+.langues h6{
+    font-family: 'Fjalla One';
+    color: white;
+    margin-bottom: 1px;
+    margin-top: 20px;
+}
+
+.langues p{
+    font-family: 'Lato';
+    color: lightgrey;
+    margin-bottom: 1px;
+}
+
+.col-sm-2 h5{
+    margin-top: 50px;
+}
+
+.competences{
+    padding-right: 5%;
+}
+
+.profil{
+    padding-right: 5%;
+}
+
+.formations{
+    padding-right: 5%;
+}
+
+.experiences{
+    padding-right: 5%;
+}
+
+.experiences-contenu a{
+    color: black;
+    font-family: 'Lato';
+    text-align: justify;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.experiences-contenu a:hover{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.interets{
+    padding-right: 5%;
+}
+
+.CV{
+    font-family: 'Roboto';
+    color: #708090;
+    margin-left: 10%;
+    margin-top: 12%;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-bottom: 25px; 
+}
+
+.CV-contenu{
+    color: black;
+    margin-left: 10%;
+    font-family: 'Lato';
+    text-align: justify;
+    font-size: 15px;
+}
+
+.col-sm-5 svg{
+    width: 5%;
+    height: 5%;
+    margin-right: 8px;
+}
+
+.maitrise{
+    padding-right: 5%;
+}
+
+.maitrise-index{
+    margin-top: 45px;
+    margin-left: 10%;
+    font-family: 'Fjalla One';
+}
+
+.progress{
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
+
+.video-index{
+    font-family: 'Roboto';
+    color: white;
+    margin-top: 12%;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.entete{
+    overflow: hidden;
+}
+
+
+#scrollpsy{
+    background-color: white;
+}
+
+#scrollpsy .nav-link{
+    margin-bottom: 5px;
+    margin-top: 12px;
+    color: white;
+}
+
+#scrollpsy .nav-link:hover{
+    color: red;
+}
+
+.nav-link:active{
+    color: green;
+}
+
+.comp-contenu{
+    color: white;
+    text-align: justify;
+    font-family: 'Lato';
+    font-size: 15px;
+}
+
+#navbar-example3{
+    background-color: #475063;
+
+}
+
+.comp-case{
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.comp-titre{
+    font-family: 'Roboto';
+    color: white;
+    margin-top: 12%;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.separateur-comp{
+    border-bottom: 2px white solid;
+    width: 100%;
+    opacity: 1;
+}
+
+.comp-titre svg{
+    color: white;
+    width: 5%;
+    height: 5%;
+    margin-bottom: 20px;
+}
+
+#competences-page{
+    background-color: #475063;
+}
+
+#competences-video{
+    margin-bottom: 5%;
+}
+
+.video-case{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.jumbotron{
+    background-color: #1cbb9b;
+    height: 50vh;
+}
+
+.text-center{
+    padding-top: 10%;
+    font-family: 'Lato';
+}
+
+.section-interet{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.int-titre{
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.int-titre svg{
+    color: black;
+    width: 20%;
+    height: 20%;
+}
+
+.sep{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.lead{
+    color: black;
+    text-align: left;
+}
+
+.centre{
+    text-align: center;
+}
+
+.promo{
+    padding-bottom: 100px;
+}
+
+.liens{
+    height: 92.5vh;
+}
+
+@media (max-width: 1014px) {
+    img{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 400px) {
+    img{
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (max-width: 1150px) {
+    p{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 750px) {
+    p{
+        font-size: 9px;
+    }
+
+    img{
+        width: 75px;
+        height: 75px;
+    }
+
+    .jumbotron{
+        height: 12vh;
+    }
+}
+
+@media (max-width: 685px) {
+    p{
+        font-size: 7px;
+    }
+
+    .prenom p{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 575px) {
+    p{
+        font-size: 14px;
+    }
+
+    img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .prenom p{
+        font-size: 30px;
+    }
+
+    #scrollpsy{
+        margin-bottom: 35px;
+    }
+
+    .comp-titre svg{
+        font-size: 45px;
+    }
+
+    .comp-titre svg{
+        width: 10%;
+        height: 10%;
+    }
+}
+
+
